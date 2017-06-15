@@ -41,7 +41,7 @@ h1.firsth{
 }
 blockquote{
     font-style: italic;
-    display: inline;
+    display: inline-block;
 }
 .italic-underline{
     font-style: italic;
@@ -59,4 +59,7 @@ ul{
 }
 figcaption{
     padding-bottom: 10px;
+}
+q{
+    font-style: italic;
 }
